@@ -1,13 +1,18 @@
 # Smart Excalidraw
-
 > **用自然语言，绘制专业图表**
 
-## 在线网站
-进入在线网站直接使用：https://smart-excalidraw.aizhi.site/
 
-🚀🚀🚀 限时福利
+🚀🚀🚀全面升级的新版本，更强大好用的绘图平台
 
-添加底部作者微信进群可领取免费claude-4.5-sonnet key
+https://ai-draw-nexus.aizhi.site
+
+
+
+![generated-image-1766739999192](https://github.com/user-attachments/assets/6438a45f-1eba-4b63-a4fa-50cd45b718fc)
+
+
+
+
 
 ## English Version
 Read the English version: [README_EN.md](README_EN.md)
